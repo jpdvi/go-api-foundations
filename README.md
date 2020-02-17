@@ -1,2 +1,3 @@
-# chat-server
-Persistent chat server built in GO
+# Go Foundations
+
+Boilerplate for new go api services.
